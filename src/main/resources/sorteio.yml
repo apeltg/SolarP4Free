@@ -1,0 +1,17 @@
+sorteio:
+  #Aqui serve para configurar a mensagem que anuncia o ganhador.
+  mensagemganhador: '§aO ganhador do sorteio foi o jogador: {playerganhador}'
+  #Aqui serve para configurar o tempo de um sorteio.
+  tempo: 6000 #O tempo é em ticks, ou seja, 1 segundo é igual a 20 ticks.
+  permissao: 'sorteio.usar'
+  mensagemaoanunciar: '§aUm sorteio irá iniciar em 5 minutos, caso deslogue, você não irá ganhar o prêmio!'
+  #Aqui está divido em cada tipo de sorteio e suas possíveis configurações.
+  vip:
+    comando: 'lp user {playerganhador} parent addtemp vip 7d'
+    aoanunciar: '§6§lSORTEIO §fPrêmio: §aVIP §fpor 7 dias.'
+  cash:
+    quantia: 500
+    aoanunciar: '§6§lSORTEIO §fPrêmio: §b500 §fde cash.'
+  coins:
+    quantia: 5000
+    aoanunciar: '§6§lSORTEIO §fPrêmio: §e5000 §fde coins.'

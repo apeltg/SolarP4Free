@@ -1,0 +1,6 @@
+name: SolarP4Free
+Author: JVPC_YouTube
+version: 1.0-Snapshot
+depend: [SolarCore]
+
+main: me.solarcollections.jvpc.p4.Main

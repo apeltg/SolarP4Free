@@ -1,0 +1,42 @@
+halloween:
+  # ID único, não utilize IDs repetidos.
+  id: 1
+  name: 'Halloween'
+  rarity: DIVINO
+  permission: ''
+  icon: 'PUMPKIN : 1 : desc>&7Assombre o lobbies com essa mensagem,\n&7para deixar o halloween mais divertido!'
+  coins: 10000.0
+  cash: 25
+  messages:
+    - '{name} &eAssombrou esse lobby!'
+colorido:
+  id: 2
+  name: 'Colorido'
+  rarity: EPICO
+  permission: ''
+  icon: '351:10 : 1 : desc>&7Como você é simpático!\n&7Ao entrar no lobby\n&7mande uma mensagem colorida e divertida!'
+  coins: 10000.0
+  cash: 25
+  messages:
+    - '{name} &ae&bn&5t&er&8o&2u &6n&8o &4l&co&3b&5b&ay!'
+amongus:
+  id: 3
+  name: 'Among Us'
+  rarity: EPICO
+  permission: ''
+  icon: 'SKULL_ITEM:3 : 1 : desc>&7Shiiiii!\n&7O impostor pode está entre nós...\n&7Ao entrar no lobby sabote-o,\n&7 e seje um bom impostor imparável! : skin>eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjdjMTRlYjg3ZGM2NDQ0YWU2MjVmMTIyY2YzYWU5NmZjOGEyODZhYmI2OWRjYzc4ZWU5NWNkNDQzMjMyYTA1YyJ9fX0='
+  coins: 10000.0
+  cash: 25
+  messages:
+    - '{name} &esabotou este lobby!'
+    - '{name} &esaiu da tubulação, e sem querer entrou neste lobby!'
+nether:
+  id: 4
+  name: 'Nether'
+  rarity: RARO
+  permission: ''
+  icon: 'OBSIDIAN : 1 : desc>&7Será que outra dimensão é tão divertida assim?'
+  coins: 10000.0
+  cash: 25
+  messages:
+    - '{name} &esaiu do portal e foi parar neste lobby!'

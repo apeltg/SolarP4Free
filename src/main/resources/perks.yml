@@ -1,0 +1,12 @@
+pele_dura:
+  enabled: true
+  name: 'Pele Dura'
+  rarity: COMUM
+  permission: 'role.vip'
+  icon: '307 : 1 : desc>&7Duro como uma pedra! Receba\n&7resistência após eliminar\n&7um oponente para ajudar em sua batalha.'
+  levels:
+    # Esse número representa o nível do habilidade
+    1:
+      coins: 10000.0
+      cash: 50
+      description: '&8Resistência 1 ao eliminar.'
