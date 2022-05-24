@@ -2,12 +2,12 @@
 # CORE>jogos
 # CORE>perfil
 # CORE>jogadores
-# SKYWARS>loja
-# SKYWARS>lobbies
-# SKYWARS>kits
-# SKYWARS>espectar
-# SKYWARS>jogar
-# SKYWARS>sair
+# P4>loja
+# P4>lobbies
+# P4>kits
+# P4>espectar
+# P4>jogar
+# P4>sair
 # COMANDO>exemplo
 # MENSAGEM>&aExemplo
 lobby:
