@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SolarP4Free">
+    <output-path>$PROJECT_DIR$/../../Meus Plugins</output-path>
+    <root id="archive" name="SolarP4Free.jar">
+      <element id="module-output" name="SolarP4Free" />
+    </root>
+  </artifact>
+</component>

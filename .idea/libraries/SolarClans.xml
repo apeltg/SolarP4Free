@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="SolarClans">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../Meus Plugins/SolarClans.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

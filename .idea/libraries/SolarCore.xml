@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="SolarCore">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../Meus Plugins/SolarCore.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
